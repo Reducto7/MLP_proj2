@@ -1,5 +1,11 @@
 # Team Project 2: Predicting Human Preferences for LLM Response Enhancement
 
+Teammates: 
+• XU LINRUI, 50251600 
+• HUANG FANRU, 20214788 
+• FANG JINGYI, 20223178 
+• FEI XIZE, 20212288 
+
 ## Overview
 This project addresses the challenging task of predicting human preferences between Large Language Model (LLM) responses, a crucial problem in AI alignment and model evaluation. The competition dataset from Kaggle contains 57,485 training samples and approximately 25,000 test samples, where each instance presents a prompt alongside two alternative responses (A and B) from different models, with human annotations indicating the preferred response or a tie.
 
